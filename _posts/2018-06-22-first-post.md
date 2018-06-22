@@ -3,4 +3,4 @@ layout: post
 mathjax: true
 ---
 
-$$e^{\pi i} = -1$$
+$$ e^{\pi i} = -1 $$
