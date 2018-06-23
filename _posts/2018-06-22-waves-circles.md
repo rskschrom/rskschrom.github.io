@@ -13,7 +13,7 @@ categories: basics
 At the most general level, waves are essentially repeating patterns of some physical quantity in space and/or time. These physical quantities could be for example pressure (i.e., sound waves), ocean surface height, electric field intensity, and many others. Below is an example plot showing a *cosine* wave, with either distance or time on the x axis and the height or intensity of the wave on the y axis.
 
 <figure><center>
-  <img width="700" src="/assets/simple_wave.png"/>
+  <img width="550" src="/assets/simple_wave.png"/>
 </center></figure>
 
 
