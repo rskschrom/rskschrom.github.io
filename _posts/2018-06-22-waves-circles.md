@@ -1,7 +1,7 @@
 ---
 title: Waves and circles
 description: Waves can be represented by circles
-categories: blog
+categories: basics
 ---
 
 <script type="text/javascript" async
