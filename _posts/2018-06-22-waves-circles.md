@@ -8,6 +8,6 @@ categories: blog
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-# Let's try this...
+## Let's try this...
 
 $$ e^{\pi i} = -1 $$
