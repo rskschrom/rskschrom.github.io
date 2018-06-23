@@ -19,4 +19,8 @@ At the most general level, waves are essentially repeating patterns of some phys
 
 We can see that this curve repeats itself roughly every \\(2\pi\\) distance or time units. If we then call the wave height \\(u\\) and now specify that the x-axis is time \\(t\\), the cosine wave is therefore defined:
 
-$$ \begin{align} u(t) = \cos(t) \end{align} $$.
+$$
+\begin{align}
+u(t) = \cos(t)
+\end{align}
+$$
